@@ -1,0 +1,18 @@
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies / build output (not used today, but safe)
+node_modules/
+dist/
+.env
+.env.local
+
+# Duplicate source photo — profile.jpg is the one the site uses
+assets/WhatsApp Image*.jpeg
